@@ -6,7 +6,7 @@ const axios = require('axios');
 
 // const IP_URI = 'https://ifconfig.me';
 const GL_API = 'http://ip-api.com/json/';
-const W_API = 'http://api.weatherapi.com/v1/current.json?key=8507df8bb14142ddbca110814202307&q='
+const W_API = 'http://api.weatherapi.com/v1/current.json?key=&q='
 
 // const ifConfigCommand = 'curl ifconfig.me'
 
